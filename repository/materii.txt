@@ -1,0 +1,5 @@
+1 ; geo ; a a
+47 ; Romana ; Bogdan Macovei
+4 ; Romana ; Mihai Eminescu
+66 ; Biologie ; Mihai Eminescu
+63 ; Biologie ; Bogdan Macovei

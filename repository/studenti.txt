@@ -1,0 +1,12 @@
+1;macovei bogdan
+81;Lucian Blaga
+16;George Enescu
+47;Bogdan Macovei
+84;Bogdan Macovei
+64;Mihai Eminescu
+67;Bogdan Macovei
+21;Mihai Eminescu
+65;George Enescu
+39;Mihai Eminescu
+2;Alex Artur
+99;dani bani
